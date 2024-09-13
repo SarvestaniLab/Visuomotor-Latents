@@ -13,4 +13,4 @@ Last updated:
 
 9/13/2024
 
-![Visuomotor-Latents](https://github.com/user-attachments/assets/0c3e15b8-4b3d-4c8e-b0cd-7d8dd4bdf76e)
+![Visuomotor-Latents](https://github.com/user-attachments/assets/a3b8fc76-7858-4684-82fa-6d483b967d5c)
