@@ -1,3 +1,5 @@
+# BAMS
+
 This notebook takes a trained BAMS (https://multiscale-behavior.github.io/) model and pose data (DeepLabCut '.csvs') and returns features for behavorial classification/ studies of dynamic movement. 
 The embeddings are shape (n samples, n frames per sample, n bams features) where samples = DLC '.csvs'. Frame level embeddings, where each frame from the pose 
 csvs is its own datapoint, are shape (n samples * n frames per sample, n bams features). These frame level data points are embedded into a 3D space using UMAP and clustered in the UMAP 
