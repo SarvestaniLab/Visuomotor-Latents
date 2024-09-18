@@ -1,3 +1,6 @@
-models/
-data/
-explore_bams_embeddings.ipynb
+BAMS/models/
+BAMS/data/
+BAMS/explore_bams_embeddings.ipynb
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
