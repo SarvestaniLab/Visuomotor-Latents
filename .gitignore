@@ -4,3 +4,4 @@ BAMS/explore_bams_embeddings.ipynb
 *.pyc
 __pycache__/
 .ipynb_checkpoints/
+MoSeq/
