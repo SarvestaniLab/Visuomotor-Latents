@@ -1,5 +1,5 @@
-BAMS/models/
-BAMS/data/
+BAMS/bams_models/
+BAMS/dlc_data/
 BAMS/explore_bams_embeddings.ipynb
 *.pyc
 __pycache__/
